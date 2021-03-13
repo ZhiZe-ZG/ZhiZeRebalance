@@ -1,2 +1,14 @@
-# ZhiZeRebalance
-A Minecraft datapack.
+# ZhiZe Rebalance Minecraft Datapack
+
+## Entites Loot
+
+* 猪：
+  * 掉落骨头，掉落率与骷髅一致。
+  * 掉落皮革，掉落率与牛一致。
+* 牛
+  * 掉落骨头，掉落率与骷髅一致。
+* 羊
+  * 掉落骨头，掉落率与骷髅一致。
+  * 掉落皮革，掉落率与牛一致。
+* 马
+  * 掉落骨头，掉落率与骷髅一致。
