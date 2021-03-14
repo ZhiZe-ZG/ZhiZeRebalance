@@ -1,4 +1,4 @@
-# ZhiZe Rebalance Minecraft Datapack
+# ZhiZe Rebalance Minecraft Datapack and Resourcepack
 
 ## Overview
 
